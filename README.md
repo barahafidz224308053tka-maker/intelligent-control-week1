@@ -1,1 +1,2 @@
-# intelligent-control-week1
+# Praktikum_Bara
+Praktikum Minggu Ke-1
