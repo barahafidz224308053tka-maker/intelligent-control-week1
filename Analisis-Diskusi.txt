@@ -1,0 +1,13 @@
+Analisis:
+Pada praktikum kali ini,kita melakukan beberapa tahapan percobaan yaitu tahap pertama membuat akun GitHub, membuat repository baru dan membuat Clone repository. Tahap kedua melakukan unduh dataset pada Kaggle. Tahap ketiga melakukan instalasi Library Phython dan OpenCV.Tahap keempat memalkukan deteksi warna pada vs code. Tahap kelima melakukan upload file ke GitHub. Dalam percobaan praktikum ini berfokus pada deteksi warna yaitu warna biru, warna merah, dan warna kuning. Ketika kita melakukan running program pada vs code maka akan menampilkan hasil deteksi warna pada sebuah frame sesuai dengan warna yang terdeteksi dan terdapat label warna.
+Program deteksi warna ini menggunakan color space HSV (Hue, Saturation, Value) untuk deteksi warna yang tertangkap pada sebuah frame. 
+Sistem deteksi warna dapat di implementasikan dalam berbagai sektor, dari industri manufaktur hingga implementasi dalam kehidupan sehari-hari
+  Diskusi:
+Artificial Intelligence (AI) mampu mengoptimalkan sistem kontrol berbasis Computer Vision melalui deteksi objek, khususnya dalam hal pengenalan warna. Teknologi deep learning, sebagai contoh, memungkinkan identifikasi objek berdasarkan karakteristik warnanya dengan tingkat akurasi yang jauh optimal.
+
+Kelebihan:
+	1.Dengan menggunakan AI dalam deteksi warna memiliki kelebihan yaitu : dapat membuat presentasi akurasi menjadi lebih baik dan system program lebih sederhana
+
+ intelligent-control-week1
+Kekurangan:
+	1.Dengan menggunakan AI dalam deteksi warna memliki beberapa kekurangan, antara lain :sangat senstife terhadap cahaya, Kondisi frame kamera (kabut, debu, asap) maupun kuliatas dari kamera bawan dapat menurunkan performa deteksi warna
